@@ -77,10 +77,19 @@ public class BiShiTi {
 		
 		//test-git
 		testc1();
+
+		//git-test
+		gittestc2();
 		
 	}
 
 	public static void testc1() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void gittestc2() {
+
 		// TODO Auto-generated method stub
 		
 	}
