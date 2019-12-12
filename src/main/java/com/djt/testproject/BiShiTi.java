@@ -75,6 +75,14 @@ public class BiShiTi {
 		//文思海辉
 		testwshh();
 		
+		//test-git
+		testc1();
+		
+	}
+
+	public static void testc1() {
+		// TODO Auto-generated method stub
+		
 	}
 
 	public static void testwshh() {
